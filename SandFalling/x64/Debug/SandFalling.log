@@ -1,0 +1,4 @@
+﻿  chunk.cpp
+C:\Users\etien\Desktop\CODE\SandFalling\SandFalling\chunk.cpp(68,13): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\etien\Desktop\CODE\SandFalling\SandFalling\chunk.cpp(92,13): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  SandFalling.vcxproj -> C:\Users\etien\Desktop\CODE\SandFalling\x64\Debug\SandFalling.exe
